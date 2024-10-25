@@ -6,8 +6,8 @@ Check out the new documentation portal [here](https://docs.fuel.network/).
 
 ## Alpha
 
-- Follow [Fuel Labs](https://twitter.com/fuellabs_) on Twitter for all the alpha.
-- Follow [Sway](https://twitter.com/SwayLang), our Rust-based DSL and start writing smart contracts on Fuel.
+- Follow [Fuel Labs](https://x.com/fuellabs_) on Twitter for all the alpha.
+- Follow [Sway](https://x.com/SwayLang), our Rust-based DSL and start writing smart contracts on Fuel.
 - Join the [Fuel discord](https://discord.com/invite/fuelnetwork) where you can ask questions, build with others, and hear about developments first.
 - [Check out this page](https://github.com/FuelLabs/awesome-fuel) to learn about upcoming events, read articles, listen to podcasts, and view presentations on Fuel.
 - [Apply for a grant to build on Fuel](https://1v1l4ftv9zy.typeform.com/fuelgrants?typeform-source=www.fuel.network).
